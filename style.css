@@ -1,8 +1,17 @@
 body{
-    background-color : #9dab86;
+    background-color : #eaf6f6;
 }
 hr{
 border-style: dotted none none;
 border-color: gray;
 width: 5%;
+border-width: 5px;
+}
+h1,h3{
+    color: #66bfbf;
+}
+
+img{
+    border-radius: 28%;
+    height: 200px;
 }
